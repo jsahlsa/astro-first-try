@@ -1,6 +1,6 @@
-# Welcome to [Astro](https://astro.build)
+# [Astro](https://astro.build) blog
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> Testing Astro out by building a fake blog
 
 ## 🚀 Project Structure
 
@@ -12,9 +12,11 @@ Inside of your Astro project, you'll see the following folders and files:
 │   ├── robots.txt
 │   └── favicon.ico
 ├── src/
-│   ├── components/
+│   ├── components/    
 │   │   └── Tour.astro
 │   └── pages/
+│       ├── blog/
+│       │   └── post1.md 
 │       └── index.astro
 └── package.json
 ```
